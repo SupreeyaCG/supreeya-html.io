@@ -1,0 +1,33 @@
+form {
+    margin-left: 500px;
+    margin-top: 150px;
+    height: 350px;
+    width: 300px;
+    padding: 1em;
+    border: 5px solid red;
+    background-color:aquamarine;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("amimal.jpg");
+    background-size: 100%;
+    background-size: no-repeat;
+}
+
+li{
+    padding: 5px 10px;
+}
+
+input[type=text]{
+    width: 80%;
+    padding: 5px 10px;
+    margin: 3px 0;
+    box-sizing: border-box;
+}
